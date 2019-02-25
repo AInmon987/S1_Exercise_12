@@ -60,4 +60,6 @@ function calCaption(calDate) {
 
       // Write the caption 
       return "<caption>" + monthName[thisMonth] + " " + thisYear + "</caption>";
+
+      
 }
